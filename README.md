@@ -2,7 +2,6 @@
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/harsh-srivastv/harsh-srivastv/blob/main/man2.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-srivastv&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-srivastv" /> </p>
 
 - 📫 How to reach me **harshsrivastv12@gmail.com**
 
