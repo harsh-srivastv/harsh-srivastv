@@ -2,9 +2,9 @@
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/harsh-srivastv/harsh-srivastv/blob/main/man2.png">
 
-
+- 🎓 Pursuing my Bachelor's in Computer Science & Engineering at PSIT.
+- 💻 I'm passionate about learning Machine Learning and Data Science.
 - 📫 How to reach me **harshsrivastv12@gmail.com**
-
 - ⚡ My Moto **Stay Relentless**
 
 <h3 align="left">Connect with me:</h3>
