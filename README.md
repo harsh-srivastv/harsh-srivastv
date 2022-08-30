@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Srivastava</h1>
 <h3 align="center">A passionate learner from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-srivastv&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-srivastv" /> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/harsh-srivastv/harsh-srivastv/blob/main/man2.png">
 
 - 🎓 Pursuing my Bachelor's in Computer Science & Engineering at PSIT.
