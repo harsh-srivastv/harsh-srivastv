@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Harsh Srivastava</h1>
+<p align="center">
+  <img src="https://github.com/JahidHasanCO/JahidHasanCo/blob/main/cover%20jahid%20hasan.png" />
+</p>
+<h2 align="center">Hey there, I'm <a href="https://www.facebook.com/hJahidHasan.jrC/">Harsh Srivastava</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h2>
+
+<!---<h1 align="center">Hi 👋, I'm Harsh Srivastava</h1>-->
 <h3 align="center">A passionate learner from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-srivastv&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-srivastv" /> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/harsh-srivastv/harsh-srivastv/blob/main/man2.png">
