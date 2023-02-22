@@ -7,10 +7,13 @@
 <h3 align="center">A passionate learner from India</h3>
 
 <div align="center">
-        <a href="https://linkedin.com/in/harsh-srivastv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-srivastv" height="30" width="40" />Linked in</a>
-        <a href="mailto:harshsrivastv12@gmail.com"><img src="[https://icons8.com/icon/ZsqwnJaWUi9o/gmail-logo](https://github.com/harsh-srivastv/harsh-srivastv/blob/main/images/icons8-gmail-logo-48.png)" /> Gmail</a>
-        <a href="https://leetcode.com/harsh_srivastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_srivastava/" height="30" width="40" />LeetCode</a>
-        <a href="https://auth.geeksforgeeks.org/user/harshsrivastv12/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshsrivastv12/profile" height="30" width="40" /> GFG</a>
+        <a href="https://in.linkedin.com/in/harsh-srivastv"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+
+        <a href="mailto:harshsrivastv12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  
+        <a href="https://leetcode.com/harsh-srivastv/" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" style="vertical-align:center" /></a>
+  
+        <a href="https://auth.geeksforgeeks.org/user/harshsrivastv12/profile" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c" /></a>
 </p>
     </div>
 
