@@ -47,7 +47,7 @@
     <h3><b>Tools</b></h3>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
     <a href="https://visualstudio.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/></a>
-    <a href="https://github.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/github-original.svg" title="GitHub" alt="github" width="40" height="40"/></a>
+    <a href="https://github.com/" target="_blank"><img src="https://github.com/harsh-srivastv/harsh-srivastv/blob/main/images/github-logo-2.png" title="GitHub" alt="github" width="50" height="50"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/git-original.svg" title="Git" alt="git" width="40" height="40"/></a>
     <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/jupyter-original.svg" title="Jupyter Notebook" alt="jupyter" width="40" height="40"/></a>
     <a href="https://blender.org/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/blender-original.svg" title="Blender" alt="blender" width="40" height="40"/></a>
