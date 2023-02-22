@@ -5,7 +5,17 @@
 
 <!---<h1 align="center">Hi 👋, I'm Harsh Srivastava</h1>-->
 <h3 align="center">A passionate learner from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-srivastv&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-srivastv" /> </p>
+
+<div align="center">
+        <a href="https://linkedin.com/in/harsh-srivastv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-srivastv" height="30" width="40" />Linked in</a>
+        <a href="mailto:harshsrivastv12@gmail.com"><img src="[https://icons8.com/icon/ZsqwnJaWUi9o/gmail-logo](https://github.com/harsh-srivastv/harsh-srivastv/blob/main/images/icons8-gmail-logo-48.png)" /> Gmail</a>
+        <a href="https://leetcode.com/harsh_srivastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_srivastava/" height="30" width="40" />LeetCode</a>
+        <a href="https://auth.geeksforgeeks.org/user/harshsrivastv12/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshsrivastv12/profile" height="30" width="40" /> GFG</a>
+</p>
+    </div>
+
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-srivastv&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-srivastv" /> </p-->
+
 <img align="right" alt="coding" width="400" src="https://github.com/harsh-srivastv/harsh-srivastv/blob/main/man2.png">
 
 - 🎓 Pursuing my Bachelor's in Computer Science & Engineering at PSIT.
