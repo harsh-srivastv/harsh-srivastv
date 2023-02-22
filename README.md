@@ -89,10 +89,10 @@
     <div align="center">
         <h1><img margin-down="0px" src="https://github.com/harsh-srivastv/harsh-srivastv/blob/main/images/chart.png" /> Github Stats</h1>
         <br>
-        <a href="https://github.com/harsh-srivastv"><img src="https://github-readme-stats.vercel.app/api?username=harsh-srivastv&theme=blue-green&count_private=true&show_icons=true" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
+        <a href="https://github.com/harsh-srivastv"><img src="https://github-readme-stats.vercel.app/api?username=harsh-srivastv&theme=blue-green&count_private=true&show_icons=true" title="Harsh Srivastava's GitHub Stats" height="200"/></a>
         <br>
         <br>
-        <a href="https://github.com/harsh-srivastv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-srivastv&theme=blue-green" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
+        <a href="https://github.com/harsh-srivastv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-srivastv&theme=blue-green" title="Harsh Srivastava's GitHub Stats" height="200"/></a>
         <br><br>
     </div>
 </div>
@@ -101,7 +101,7 @@
 
 <div align="center">
     <h2><img src="https://github.com/harsh-srivastv/harsh-srivastv/blob/main/images/chart.png" /> Top Used Languages</h2>
-    <br><a href="https://github.com/harsh-srivastv"><img alt="harsh-srivastv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-srivastv&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="harsh-srivastv's Top Languages"/></a>
+    <br><a href="https://github.com/harsh-srivastv"><img alt="harsh-srivastv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-srivastv&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="Harsh Srivastava's Top Languages"/></a>
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <br><br>
@@ -111,7 +111,7 @@
 
 <div align="center">
     <h2><img src="https://github.com/harsh-srivastv/harsh-srivastv/blob/main/images/chart.png" /> Contribution Graph</h2>
-    <br><a href="https://github.com/harsh-srivastv"><img alt="harsh-srivastv's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=harsh-srivastv&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
+    <br><a href="https://github.com/harsh-srivastv"><img alt="harsh-srivastv's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=harsh-srivastv&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Harsh Srivastava's Contribution Graph"/></a>
 </div>
 
 
